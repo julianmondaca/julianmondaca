@@ -1,5 +1,5 @@
-<code><h4 align='center'>Yo soy Julian Mondaca</h4></code>
-<code><h4 align='left'>soy desarrollador de software back-end y front-end</h4></code>
+<h4 align='center'>Yo soy Julian Mondaca</h4>
+<h4 align='left'>soy desarrollador de software back-end y front-end</h4>
 
 <!--
 **julianmondaca/julianmondaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

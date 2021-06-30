@@ -1,5 +1,5 @@
 <h2 align='center'>Hola, soy Julian Mondaca</h2>
-<p align='left'>soy desarrollador de software front-end y back-end.</p>
+<h3 align='center'>soy desarrollador de software front-end y back-end.</h3>
 
 <h3>Mis skills:</h3>
 <h4>Front-End:</h4>

@@ -1,7 +1,6 @@
 <h2 align='center'>Hola, soy Julian Mondaca 👋</h2>
 <h3 align='center'>soy desarrollador de software front-end y back-end.</h3>
 <p align='center'>
-<a href="#"><img src="https://thumbs.gfycat.com/MeagerHardtofindAlbertosaurus.webp" /><a/>
 </p>
 <h3>Mis skills:</h3>
 <h4>Front-End:</h4>
